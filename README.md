@@ -6,6 +6,7 @@
 - [x] support Termux ❕
 - [x] support Linux🐧
 - [x] support Cmd ❗
+- [x] support Proxy 🌵
 - [x] Anonymous  ⌨
 - [x] fast 🚀
 - [x] Secure  🔐
