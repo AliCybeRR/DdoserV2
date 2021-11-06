@@ -11,7 +11,7 @@
 - [x] Secure  🔐
 
 
-# [ 📀Installation📀 Termux]
+# [ 📀Installation Termux]
 ```
 $ apt update -y
 $ apt upgrade -y
@@ -23,7 +23,7 @@ $ cd DdoserV2
 $ python AliCybeRR.py 
 ```
 
-# [ 💿Installation 💿 Linux]
+# [ 💿Installation Linux]
 ```
 $ sudo apt-get update -y
 $ sudo apt-get upgrade -y
@@ -32,9 +32,9 @@ $ git clone https://github.com/AliCybeRR/DdoserV2
 $pip install colorama
 $ cd DdoserV2
 ```
-# [ 📸Images📸 ]
-Method_attack <br>
-<img src="image/attack.png" /><br>
+# [ 📸Images]
+Method_attack🕸 <br>
+<img src="attack.png" /><br>
 # [🕯 Support 🕯]
 
 https://T.me/AliCybeRR_KabiRR<br>
