@@ -19,7 +19,7 @@ $ apt upgrade -y
 $ apt install python -y
 $ apt install git
 $ git clone https://github.com/AliCybeRR/DdoserV2
-$pip install colorama
+$ pip install -r requirements.txt
 $ cd DdoserV2
 $ python AliCybeRR.py 
 ```
@@ -30,7 +30,7 @@ $ sudo apt-get update -y
 $ sudo apt-get upgrade -y
 $ sudo apt-get install python3 -y
 $ git clone https://github.com/AliCybeRR/DdoserV2
-$pip install colorama
+$ pip3 install -r requirements.txt
 $ cd DdoserV2
 ```
 # [ 📸Images]
@@ -38,7 +38,7 @@ Method_attack🕸 <br>
 <img src="attack.png" /><br>
 # [🕯 Support 🕯]
 
-https://T.me/AliCybeRR_KabiRR<br>
+My Telegram => <a href="https://T.me/AliCybeRR_KabiRR">here</a>
 
 # [ 📚Note📚 ]
 Check my other repository <a href="https://github.com/AliCybeRR?tab=repositories">here</a>
