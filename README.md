@@ -15,12 +15,19 @@
 # [ 📀Installation Termux]
 ```
 $ apt update -y
+
 $ apt upgrade -y
+
 $ apt install python -y
+
 $ apt install git
+
 $ git clone https://github.com/AliCybeRR/DdoserV2
-$ pip install -r requirements.txt
+
 $ cd DdoserV2
+
+$ pip install -r requirements.txt
+
 $ python AliCybeRR.py 
 ```
 
