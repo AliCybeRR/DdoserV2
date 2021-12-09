@@ -37,8 +37,8 @@ $ sudo apt-get update -y
 $ sudo apt-get upgrade -y
 $ sudo apt-get install python3 -y
 $ git clone https://github.com/AliCybeRR/DdoserV2
-$ pip3 install -r requirements.txt
 $ cd DdoserV2
+$ pip3 install -r requirements.txt
 $ python3 AliCybeRR.py
 ```
 # [ 📸Images]
